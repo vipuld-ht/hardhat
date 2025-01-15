@@ -1,0 +1,28 @@
+# Node modules
+/node_modules
+
+# Hardhat artifacts and cache
+/artifacts
+/cache
+
+# Hardhat build directory
+/build
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# npm package-lock and yarn.lock
+package-lock.json
+yarn.lock
